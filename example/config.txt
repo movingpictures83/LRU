@@ -1,0 +1,2 @@
+Prefix plugins/LRU/example/
+Plugin LRU inputfile parameters.txt outputfile out.lru.txt
